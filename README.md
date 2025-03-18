@@ -29,9 +29,12 @@ This pivot table dashboard provided an initial breakdown of sales performance be
 ---
 
 ### Key Metrics Displayed:
-📊 Total Sales: $899.9M
-📊 Total Operating Profit: $332.1M
-📊 Year-over-Year Growth: +294.2% (indicating a significant increase in sales performance)
+📊 Total Sales: $899.9M  
+
+📊 Total Operating Profit: $332.1M  
+
+📊 Year-over-Year Growth: +294.2% (indicating a significant increase in sales performance)  
+
 
 ### Visualizations & Insights:
 1️⃣**Total Sales Trend (Line Chart)**
