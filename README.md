@@ -2,7 +2,7 @@
 
 This **Adidas U.S. Stores Sales Dashboard** provides key insights into a **synthetic dataset of 9,648 records**, analyzing sales performance across product categories, regions, sales channels, and retailers **using Power BI**. It highlights **total revenue, year-over-year (YoY) growth, and operating profit**, offering a comprehensive overview of business performance.
 
-![Adidas Sales Dashboard](https://github.com/yuanz25/sales/blob/main/Adidas%20US%20Stores%20Sales%20PowerBI%20snapshot.png)
+![Adidas Sales Dashboard](https://github.com/yuanz25/sales/blob/main/PowerBI%20snapshot.png)
 
 ## Key Insights & Features 
 ✔️ **Revenue performance: $899.9M** in total sales with an impressive **294.2% YoY growth** likely driven by **post-pandemic economic recovery and increased consumer spending in 2021.**
