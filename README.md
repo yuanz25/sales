@@ -11,7 +11,7 @@ This **Adidas U.S. Stores Sales Dashboard** provides key insights into a **synth
 
 ✔️ **Top-performing product**: Men's Street Footwear ($208.8M in sales, 593K units sold)
 
-✔️ **Sales distribution**: The **West region** outperformed other regions, with varying sales trends across **in-store, online, and outlet channels.**
+✔️ **Sales distribution**: The **West region** outperformed other regions, with varying sales trends across **in-store (36.9%), outlet (32.8%), and online (27.5%) channels.** Better digital marketing and online-exclusive promotions should be considered to improve e-commerce performance.
 
 ✔️ **Retailer performance**: West Gear and Foot Locker dominate sales, while Amazon and Walmart contribute only about one-third of their sales.  
 
