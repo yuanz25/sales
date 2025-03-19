@@ -7,11 +7,11 @@ This **Adidas U.S. Stores Sales Dashboard** provides key insights into a **synth
 ## Key Insights & Features 
 ✔️ **Revenue performance: $899.9M** in total sales with an impressive **294.2% YoY growth** likely driven by **post-pandemic economic recovery and increased consumer spending in 2021.**
 
-✔️ **Sales trends**: Peak sales periods in **January 2021 and July 2021**, possibly driven by seasonal demand or promotions.
+✔️ **Sales trends**: Peak sales periods in **January 2021 and July 2021**, possibly driven by seasonal demand or promotions. However, more data points across recent years is needed for more conclusive results. 
 
-✔️ **Top-performing product**: Men's Street Footwear ($208.8M in sales, 593K units sold)
+✔️ **Top-performing product**: Men's Street Footwear ($208.8M in sales, 593K units sold). The lowest-performing product is the Women’s Athletic Footwear, which may require marketing efforts to boost sales.  
 
-✔️ **Sales distribution**: The **West region** outperformed other regions, with varying sales trends across **in-store (36.9%), outlet (32.8%), and online (27.5%) channels.** Better digital marketing and online-exclusive promotions should be considered to improve e-commerce performance.
+✔️ **Sales distribution**: The **West region** outperformed other regions, with varying sales trends across **in-store (36.9%), outlet (32.8%), and online (27.5%) channels.** Better digital marketing and online-exclusive promotions should be considered to improve overall e-commerce performance and boost sales performance.
 
 ✔️ **Retailer performance**: West Gear and Foot Locker dominate sales, while Amazon and Walmart contribute only about one-third of their sales.  
 
@@ -57,10 +57,4 @@ This pivot table dashboard provided an initial breakdown of sales performance be
 - Amazon and Walmart contribute to sales but are on the lower end of $75M,  indicating potential for optimization in their Adidas product offerings.
 
 
-## Overall Insights:
-🚀 Adidas experienced strong YoY growth (294.2%), indicating successful sales strategies with post-pandemic economy recovery.  
-
-👟 Certain product categories, such as Women’s Athletic Footwear, may require marketing efforts to boost sales.  
-
-🌎 Regional and sales channel performance vary, with certain regions relying more on in-store vs. online/outlet sales.  
 
